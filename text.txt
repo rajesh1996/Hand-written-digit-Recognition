@@ -1,0 +1,7 @@
+1. Open Juoyter notebook
+2. Make sure all the functions like sklearn,tensorflow,numpy,pandas etc. are imported
+2. Set the working directory
+3. Run cells
+
+
+For convinience, the results for each cells is saved and shown. 
